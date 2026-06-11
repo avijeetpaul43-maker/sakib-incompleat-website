@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css"
+        integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+
+<body>
+    <div class="nav-bar">
+        <div class="nav-item">
+            <p class="portostar" style="color: #5E3BEE; "> <span class="logoA"> A</span> <b>PORTOSTAR</b></p>
+        </div>
+        <div class="nav-item">HOME</div>
+        <div class="nav-item">ABOUT US</div>
+        <div class="nav-item">SERVICES</div>
+        <div class="nav-item">WORKS</div>
+        <div class="nav-item"><button class="hire-me">HIRE ME <i class="fa-regular fa-envelope"></i></button></div>
+    </div><br><br><br><br>
+
+
+    <section class="container">
+        <div class="left">
+            <div>
+                <p style="color: #5E3BEE;">SAKIB AL HASAN</p>
+            </div>
+            <div>
+                <h1 style="font-size: 55px;">Hello, my <br>name’s Sakib. <br>I’m MERN Stack <br> Developer.</h1>
+            </div>
+
+            <div class="both-button">
+                <button class="button-1"><i class="fa-regular fa-envelope"></i>CONTACT ME</button>
+                <button class="button-2"><i class="fa-solid fa-download"></i>DOWNLOAD CV</button>
+
+            </div>
+        </div>
+
+        <div class="right">
+            <img src="images/sakib.png" alt="sakib">
+        </div>
+    </section><br>
+
+
+    <div class="secound-nav-bar">
+        <div class="nav-item1">
+            <h1>100+</h1>
+            <p class=" acivment">PROJECTS</p>
+        </div>
+        <div class="nav-item1">
+            <h1>24</h1>
+            <p class=" acivment">WINNING AWARD</p>
+        </div>
+        <div class="nav-item1">
+            <h1>70+</h1>
+            <p class=" acivment">HAPPY CLIENTS</p>
+        </div>
+        <div class="nav-item1">
+            <h1>10</h1>
+            <p class=" acivment">YEAR EXPERIENCE</p>
+        </div>
+
+    </div>
+
+    <section class="container1">
+        <div>
+            <p>SERVICES</p>
+            <h2>What I Do For My Customer.</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vitae <br> blandit lectus. Praesent at
+                hendrerit velit, at dictum nisl.</p>
+        </div>
+
+        <div class="cards">
+            <div>
+                
+            </div>
+        </div>
+
+    </section>
+
+
+</body>
+
+</html>
+
